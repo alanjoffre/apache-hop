@@ -1,1 +1,4 @@
-teste
+Criar variaveis de ambiente:
+
+HOP_JAVA_HOME: C:\java\jdk-21
+JAVA_HOME: C:\java\jdk-21\bin
